@@ -1,5 +1,5 @@
 ### Olá, me chamo Jeyfferson da Silva
-- 👨‍🏫 Trabalho hoje com backand(PHP, Python)
+- 👨‍🏫 Trabalho hoje com backend(PHP, Python)
 - 👩‍🎓 Curso Banco de dados
 - 👨‍🎓 Estudo Python, Django, BD MySQL...
 - 🏃‍♂️ Gosto de esportes...
