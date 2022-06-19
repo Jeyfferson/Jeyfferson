@@ -31,7 +31,7 @@
 --->
 
 ### Olá, me chamo Jeyfferson da Silva
-- 👨‍🏫 Trabalho hoje com backend(PHP, Python)
+- 👨‍🏫 Estudo hoje com Analise de dados(PHP, Python)
 - 👩‍🎓 Curso Faculdades de Banco de dados (ESTÁCIO)
 - 👨‍🎓 Estudo Python, Django, BD MySQL...
 - 🏃‍♂️ Gosto de esportes...
