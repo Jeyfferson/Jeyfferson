@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyfferson&label=Profile%20views&color=0e75b6&style=flat" alt="jeyfferson" /> </p>
 
-- 🌱 I’m currently learning **Python, Django and analise de dados**
+- 🌱 I’m currently learning **Python, PHP and analise de dados**
 
 - 💬 Ask me about **MySQL, PHP, Python, Django**
 
@@ -31,9 +31,9 @@
 --->
 
 ### Olá, me chamo Jeyfferson da Silva
-- 👨‍🏫 Estudo hoje com Analise de dados(PHP, Python)
+- 👨‍🏫 Estudo hoje para Analise de dados(Python, R, MySQL, Oracle)
 - 👩‍🎓 Curso Faculdades de Banco de dados (ESTÁCIO)
-- 👨‍🎓 Estudo Python, Django, BD MySQL...
+- 👨‍🎓 Estudo Python, PHP, BD MySQL...
 - 🏃‍♂️ Gosto de esportes...
 - 🎷🎸 Toco violão e saxofone... 
 <div align="center">
