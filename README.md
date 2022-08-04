@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about data analysis in the digital world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyfferson&label=Profile%20views&color=0e75b6&style=flat" alt="jeyfferson" /> </p>
-
+- ![image](https://user-images.githubusercontent.com/96900676/182736100-7181320d-e563-4c92-b7f5-cdadbf3922fd.png)
 - 🌱 I’m currently learning **Python, PHP and analise de dados**
 
 - 💬 Ask me about **MySQL, PHP, Python, Django**
@@ -36,6 +36,11 @@
 - 👨‍🎓 Estudo Python, PHP, BD MySQL...
 - 🏃‍♂️ Gosto de esportes...
 - 🎷🎸 Toco violão e saxofone... 
+<div>
+<h2>Projetos com JavaScript</h2>
+-  <a href="https://megasenv1.netlify.app">Megasena</a><br>
+-  <a href="https://calculateimcclass.netlify.app">IMC</a>
+</div>
 <div align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeyfferson&theme=vue">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeyfferson&theme=dracula"/>
