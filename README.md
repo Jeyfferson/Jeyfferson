@@ -10,7 +10,7 @@
 <h2>Projetos com JavaScript</h2>
 -  <a href="https://megasenv1.netlify.app">Megasena</a><br>
 -  <a href="https://calculateimcclass.netlify.app">IMC</a><br>
--  <a href="https://sneakrsstore.netlify.app" target=""_blank">E-commerce Sneakrs</a>
+-  <a href="https://sneakrsstore.netlify.app" target="_blank">E-commerce Sneakrs</a>
 </div>
 <div align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeyfferson&theme=vue">
