@@ -1,16 +1,15 @@
 
 
 ### Olá, me chamo Jeyfferson da Silva
-- 👨‍🏫 Estudo hoje para Analise de dados(Python, R, MySQL, Oracle)
+- 👨‍🏫 Estudo hoje para ser Desenvolvedor Backend (JavaScript, Python, PHP, Node.js, Angular...)
 - 👩‍🎓 Curso Faculdades de Banco de dados (ESTÁCIO)
-- 👨‍🎓 Estudo Python, PHP, BD MySQL...
+- 👨‍🎓 Estudo <strong>JavaScript</strong>, Python, BD MySQL...
 - 🏃‍♂️ Gosto de esportes...
 - 🎷🎸 Toco violão e saxofone... 
 <div>
-<h2>Projetos com JavaScript</h2>
--  <a href="https://megasenv1.netlify.app">Megasena</a><br>
--  <a href="https://calculateimcclass.netlify.app">IMC</a><br>
--  <a href="https://sneakrsstore.netlify.app" target="_blank">E-commerce Sneakrs</a>
+<h2>Projetos com JavaScript você poderá encontrar no meu portifólio</h2><br>
+<h2> Meu portifólio com projetos</h2><br>
+
 </div>
 <div align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeyfferson&theme=vue">
