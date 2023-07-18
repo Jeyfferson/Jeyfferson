@@ -1,6 +1,6 @@
 
 
-### Olá, me chamo Jeyfferson da Silva
+### Hello there, my name is Jeyfferson da Silva
 
 <div>
 <h2>My Jr Developer Profile</h2><br>
