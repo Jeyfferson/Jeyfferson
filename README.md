@@ -1,14 +1,10 @@
 
 
 ### Olá, me chamo Jeyfferson da Silva
-- 👨‍🏫 Estudo hoje para ser Desenvolvedor Backend (JavaScript, Python, PHP, Node.js, Angular...)
-- 👩‍🎓 Curso Faculdades de Banco de dados (ESTÁCIO)
-- 👨‍🎓 Estudo <strong>JavaScript</strong>, Python, BD MySQL...
-- 🏃‍♂️ Gosto de esportes...
-- 🎷🎸 Toco violão e saxofone... 
+
 <div>
-<h2>Projetos com JavaScript você poderá encontrar no meu portifólio</h2><br>
-<h2><a href="https://app.netlify.com/teams/jeyffesilv/sites" target="_blank"> Meu portifólio com projetos</a></h2><br>
+<h2>My Jr Developer Profile</h2><br>
+<h2><a href="https://app.netlify.com/teams/jeyffesilv/sites" target="_blank"> My portfolio with some projects</a></h2><br>
 
 </div>
 <div align="center">
@@ -20,15 +16,17 @@
   
   ##
   <h3 align="left">BDs I study:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>&nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<!---  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
-  <img align="center" alt="Rafa-HTML" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Jey-Python" height="40" width="120" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img align="center" alt="Rafa-Csharp" height="40" width="120" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
---->
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40"/>&nbsp<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" ></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>&nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
   
   ##
  <!--Redes Sociais-->
@@ -43,11 +41,5 @@
   
   ##
   
-  <div>
-  
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyfferson&" alt="jeyfferson" /></p>
-  </div>
 --->
