@@ -8,7 +8,7 @@
 - 🎷🎸 Toco violão e saxofone... 
 <div>
 <h2>Projetos com JavaScript você poderá encontrar no meu portifólio</h2><br>
-<h2><a href="https://portifoliojsilvavicente.blogspot.com/" target="_blank"> Meu portifólio com projetos</a></h2><br>
+<h2><a href="https://app.netlify.com/teams/jeyffesilv/sites" target="_blank"> Meu portifólio com projetos</a></h2><br>
 
 </div>
 <div align="center">
