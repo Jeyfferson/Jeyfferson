@@ -11,7 +11,7 @@
 <br>
 
 ## 📌 Sobre Mim
-- 🎓 Estudante de Desenvolvimento Web e Tecnologia.
+- 🎓 Estudante de Engenharia de software.
 - 💡 Focado em aprender e aplicar boas práticas de código, responsividade e acessibilidade.
 - 🛠️ Sempre desenvolvendo novos projetos práticos para enriquecer o portfólio.
 
